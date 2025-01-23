@@ -49,7 +49,7 @@ paths:
       x-quantumCode: 'https://algassert.com/quirk#circuit={"cols":["H","H","H","H"]}'
       x-quantumProvider: 'aws'
 
-  /circuit/maxcut3qubitsQASM:
+  /circuit/chemnitzExample:
     post:
       tags:
         - quantum_code
